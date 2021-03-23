@@ -14,6 +14,8 @@ a {
   background: #000DFF;
   color: #fff;
   opacity: 0.8; }
+  #main-nav .navbar-toggler-icon {
+    color: white; }
   #main-nav .nav-item a:hover {
     color: #fff; }
 
