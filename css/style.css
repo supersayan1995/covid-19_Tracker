@@ -1,0 +1,46 @@
+* {
+  box-sizing: border-box;
+  margin: 0px;
+  padding: 0px; }
+
+body {
+  font-family: Arial, Helvetica, sans-serif; }
+
+a {
+  text-decoration: none;
+  color: #fff; }
+
+#main-nav {
+  background: #000DFF;
+  color: #fff;
+  opacity: 0.8; }
+  #main-nav .nav-item a:hover {
+    color: #fff; }
+
+#home-section {
+  background: url("https://www.who.int/images/default-source/searo---images/health-topics/corona-virus19/coronavirus-blue.tmb-1920v.jpg?Culture=en&sfvrsn=1bdbbe71_6%201920w");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-attachment: fixed;
+  min-height: 100vh; }
+  #home-section .dark-overlay {
+    background: rgba(0, 0, 0, 0.7);
+    height: 100vh;
+    width: 100%; }
+    #home-section .dark-overlay .container {
+      height: 100%;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      justify-content: center; }
+
+#main-section {
+  background: #595FFF; }
+
+#tbody {
+  background: #fff; }
+
+table {
+  border-radius: 5px; }
+
+/*# sourceMappingURL=style.css.map */
