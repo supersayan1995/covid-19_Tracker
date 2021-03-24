@@ -15,7 +15,9 @@ a {
   color: #fff;
   opacity: 0.8; }
   #main-nav .navbar-toggler-icon {
-    border: 2px solid white; }
+    border: 2px solid #fff;
+    border-radius: 5px;
+    color: #fff; }
   #main-nav .nav-item a:hover {
     color: #fff; }
 
